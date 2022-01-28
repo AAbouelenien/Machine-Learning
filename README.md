@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning :star_struck::star_struck:
 Notebooks covering various topics in Machine Learning - Theory &amp; Code
 
 The notebooks represent my notes following multiple machine learning online courses 
